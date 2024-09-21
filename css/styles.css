@@ -10982,11 +10982,31 @@ section.resume-section .resume-section-content {
 html {
     scroll-behavior: smooth;
 }
-
 .social-icon:hover {
-    transform: scale(1.1);
+    transform: scale(1.75);
     color: #007bff; /* Cambia el color */
-    transition: transform 0.3s ease, color 0.3s ease;
+    transition: transform 2s ease, color 3.3s ease;
+}
+.dev-icons li:hover {
+  transform: scale(1.75);
+  color: #007bff; /* Cambia el color */
+  transition: transform 2s ease, color 3s ease;
+}
+.subheading:hover{
+  color: #007bff; /* Cambia el color */
+  transition: color 3s ease;
+} 
+.mb-5:hover{
+  color: #ff333f; /* Cambia el color */
+  transition: color 3s ease;
+} 
+a:hover{
+  color: #000000; /* Cambia el color */
+  transition: color 3s ease;
+}
+li:hover{
+  color: #25cff2; /* Cambia el color */
+  transition: color 0.5s ease;
 }
 
 @keyframes typing {
@@ -11016,3 +11036,4 @@ html {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
