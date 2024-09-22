@@ -11007,7 +11007,7 @@ html {
   transform: scale(1.5); /* Ampliar un 10% al pasar el ratón */
 }
 .barra-lateral {
-  background: linear-gradient(135deg, #e0e0e0, #b3b3b3); 
+  background: linear-gradient(67deg, #fff3cd, #ffcd39); 
   background-size: cover; /* Asegura que la textura cubra toda la barra */
   color:purple;
 }
