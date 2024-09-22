@@ -11026,3 +11026,20 @@ li:hover{
   color: #25cff2; /* Cambia el color */
   transition: color 0.5s ease;
 }
+
+
+.foto {
+  transition: transform 0.3s ease; /* Animación suave */
+}
+
+.foto:hover {
+  transform: scale(1.1); /* Ampliar un 10% al pasar el ratón */
+}
+
+.barra-lateral {
+  background: linear-gradient(135deg, #e0e0e0, #b3b3b3); /* Ejemplo de un degradado elegante */
+  /* O si prefieres una imagen de textura: */
+  /* background: url('ruta/de/tu/imagen-textura.jpg') no-repeat center center; */
+  background-size: cover; /* Asegura que la textura cubra toda la barra */
+}
+
