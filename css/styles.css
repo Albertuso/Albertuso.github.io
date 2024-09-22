@@ -11037,15 +11037,6 @@ li:hover{
     50% { border-color: orange; }
 }
 
-.typewriter:hover {
-    overflow: hidden;
-    border-right: .15em solid orange;
-    white-space: nowrap;
-    margin: 0 auto;
-    letter-spacing: .15em;
-    animation: typing 3.5s steps(40, end), blink-caret .75s step-end infinite;
-}
-
 .parallax {
     background-image: url('assets/img/background.jpg');
     height: 500px; 
