@@ -11000,15 +11000,12 @@ section.resume-section .resume-section-content {
 html {
     scroll-behavior: smooth;
 }
-
 .foto {
   transition: transform 2.5s ease; /* Animación suave */
 }
-
 .foto:hover {
   transform: scale(1.5); /* Ampliar un 10% al pasar el ratón */
 }
-
 .barra-lateral {
   background: linear-gradient(135deg, #e0e0e0, #b3b3b3); 
   background-size: cover; /* Asegura que la textura cubra toda la barra */
@@ -11040,4 +11037,3 @@ li:hover{
   color: #25cff2; /* Cambia el color */
   transition: color 0.5s ease;
 }
-
