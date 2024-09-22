@@ -11041,5 +11041,6 @@ li:hover{
   /* O si prefieres una imagen de textura: */
   /* background: url('ruta/de/tu/imagen-textura.jpg') no-repeat center center; */
   background-size: cover; /* Asegura que la textura cubra toda la barra */
+  color:purple;
 }
 
