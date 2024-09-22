@@ -11026,22 +11026,3 @@ li:hover{
   color: #25cff2; /* Cambia el color */
   transition: color 0.5s ease;
 }
-
-@keyframes typing {
-    from { width: 0; }
-    to { width: 100%; }
-}
-
-@keyframes blink-caret {
-    from, to { border-color: transparent; }
-    50% { border-color: orange; }
-}
-
-.parallax {
-    background-image: url('assets/img/background.jpg');
-    height: 500px; 
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
